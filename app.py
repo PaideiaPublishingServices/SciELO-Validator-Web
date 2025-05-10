@@ -309,11 +309,6 @@ HTML = """
                 <a id="open-html-btn" target="_blank" class="btn view-btn" style="text-decoration:none;">Abrir reporte HTML</a>
             </div>
         </div>
-
-        <div>
-            <p><strong>Nota:</strong> Este validador utiliza exclusivamente el CSV de SciELO MX y la validación se realiza según la modificación realizada en ws-journals</p>
-        </div>
-
     </div>
     
     <script>
