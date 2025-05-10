@@ -30,7 +30,7 @@ El validador implementa una interfaz web amigable que permite a los usuarios:
 
 ## Uso
 
-El acceso a esta herramienta es por demanda y debe solicitarse a través de nuestro correo de contacto. Para solicitar acceso o reportar problemas, por favor contacte a:
+Puede implementar esta herramienta en un servidor Windows. Si requiere uso de una implementación existente debe solicitarse a través de nuestro correo de contacto. Para solicitar acceso o reportar problemas, por favor contacte a:
 
 **Email**: contact@paideiastudio.net
 
@@ -40,4 +40,4 @@ Este validador utiliza exclusivamente el CSV de SciELO MX y la validación se re
 
 ## Agradecimientos
 
-Desarrollado por Paideia Studio para facilitar el proceso editorial de revistas científicas mexicanas que publican en SciELO.
+Desarrollado por Patricio Pantaleo para Paideia Studio para facilitar el proceso editorial de revistas científicas mexicanas que publican en SciELO.
